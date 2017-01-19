@@ -2,9 +2,19 @@
 
 This repository is used to schedule and archive talks given at the
 [Brisbane Python User
-Group](https://www.meetup.com/Brisbane-Python-User-Group/). If you want
-to give a talk or have an idea, file an issue. To archive speaker notes
-fork the repository and file a pull request.
+Group](https://www.meetup.com/Brisbane-Python-User-Group/).
+
+## Submitting an Idea
+
+If you have an idea for a talk or might want to hear about a certain
+topic, file a [Github
+issue](https://github.com/BrisPy/talks/issues/new). If there is already
+an idea in our [issues list](https://github.com/BrisPy/talks/issues)
+feel free to vote on it by leaving a comment.
+
+In case you don't have a github account, email the
+[organizers](https://www.meetup.com/Brisbane-Python-User-Group/members/?op=leaders)
+to schedule an idea for you.
 
 ## Kudos
 
