@@ -4,6 +4,9 @@ This repository is used to schedule and archive talks given at the
 [Brisbane Python User
 Group](https://www.meetup.com/Brisbane-Python-User-Group/).
 
+For general admin issues & notes, use the separate
+[BrisPy admin repo](https://github.com/BrisPy/brispy-admin)
+
 ## Submitting an Idea
 
 If you have an idea for a talk or might want to hear about a certain
