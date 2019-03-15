@@ -22,18 +22,18 @@ to schedule an idea for you.
 ## Schedule
 
 
-| Date       | Beginner                  | General                                      |
-|------------|---------------------------|----------------------------------------------|
-| 13/03/2019 | Code Quality: Ryan Stuart | Cython: Caleb Hattingh                       |
-| 10/04/2019 |                           | Pytest: Ashwini Balnaves (@ashwini-balnaves) |
-| 08/05/2019 |                           |                                              |
-| 12/06/2019 |                           |                                              |
-| 10/07/2019 |                           |                                              |
-| 14/08/2019 |                           |                                              |
-| 11/09/2019 |                           |                                              |
-| 09/10/2019 |                           |                                              |
-| 13/11/2019 |                           |                                              |
-| 11/12/2019 |                           |                                              |
+| Date       | Beginner                                    | General                                      |
+|------------|---------------------------------------------|----------------------------------------------|
+| 13/03/2019 | Code Quality: Ryan Stuart                   | Cython: Caleb Hattingh                       |
+| 10/04/2019 | Dates & Times: Kieran Thompson (@kieranh45) | Pytest: Ashwini Balnaves (@ashwini-balnaves) |
+| 08/05/2019 |                                             |                                              |
+| 12/06/2019 |                                             |                                              |
+| 10/07/2019 |                                             |                                              |
+| 14/08/2019 |                                             |                                              |
+| 11/09/2019 |                                             |                                              |
+| 09/10/2019 |                                             |                                              |
+| 13/11/2019 |                                             |                                              |
+| 11/12/2019 |                                             |                                              |
 
 ## Kudos
 
