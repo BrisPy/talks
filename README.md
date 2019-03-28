@@ -26,7 +26,7 @@ to schedule an idea for you.
 |------------|---------------------------------------------|----------------------------------------------|
 | 13/03/2019 | Code Quality: Ryan Stuart                   | Cython: Caleb Hattingh                       |
 | 10/04/2019 | Dates & Times: Kieran Thompson (@kieranh45) | Pytest: Ashwini Balnaves (@ashwini-balnaves) |
-| 08/05/2019 |                                             |                                              |
+| 08/05/2019 | What is a decorator? @cdrn Chris Doran      |                                              |
 | 12/06/2019 |                                             |                                              |
 | 10/07/2019 |                                             |                                              |
 | 14/08/2019 |                                             |                                              |
