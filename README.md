@@ -28,7 +28,8 @@ to schedule an idea for you.
 | 10/04/2019 | Dates & Times: Kieran Thompson (@kieranh45) | Pytest: Ashwini Balnaves (@ashwini-balnaves) |
 | 08/05/2019 | What is a decorator? @cdrn Chris Doran      | Detecting Cancer with Python: Aiden Carey (@Aiden0) |
 | 12/06/2019 | Simple REST API using Flask: Colin McCririck (@cmcc13) | Multiprocessing, Threading and the GIL: Laurie Opperman (@EpicWink)                                             |
-| 10/07/2019 |                                             |                                              |
+| 10/07/2019 |                                             | Build CLIs with cmd2: Youngmin Kim (@
+ymkim92) |
 | 14/08/2019 | Getting Started with Logging: Erin Kenna (@ErinKenna) |                                              |
 | 11/09/2019 |                                             |                                              |
 | 09/10/2019 |                                             |                                              |
