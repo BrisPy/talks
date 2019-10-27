@@ -32,7 +32,7 @@ to schedule an idea for you.
 | 14/08/2019 | Cancelled due to public holiday conflicts   |                                              |
 | 11/09/2019 | Getting Started with Logging: Erin Kenna (@ErinKenna) | Type Annotations in Python: Kai Willadsen (@kaiw) |
 | 09/10/2019 | Getting Started with Natural Language Processing in Python: Ryan Stuart                    |
-| 13/11/2019 |                                             | Numpy/Pandas (@rancoxu)                      |
+| 13/11/2019 | Git for Version Control: Paul Stockwell     | Numpy/Pandas (@rancoxu)                      |
 | 11/12/2019 |                                             |                                              |
 
 ## Kudos
