@@ -33,7 +33,8 @@ to schedule an idea for you.
 | 11/09/2019 | Getting Started with Logging: Erin Kenna (@ErinKenna) | Type Annotations in Python: Kai Willadsen (@kaiw) |
 | 09/10/2019 | Getting Started with Natural Language Processing in Python: Ryan Stuart                    |
 | 13/11/2019 | Git for Version Control: Paul Stockwell     | Numpy/Pandas (@rancoxu)                      |
-| 11/12/2019 |                                             |                                              |
+| 11/12/2019 | Lightning talks!                                                                           |
+| 8/1/2020   | Introduction to asyncio: Caleb Hattingh                                                    |
 
 ## Kudos
 
