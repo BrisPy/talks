@@ -35,6 +35,7 @@ to schedule an idea for you.
 | 13/11/2019 | Git for Version Control: Paul Stockwell     | Numpy/Pandas (@rancoxu)                      |
 | 11/12/2019 | Lightning talks!                                                                           |
 | 8/1/2020   | Introduction to asyncio: Caleb Hattingh                                                    |
+| 12/2/2020  | Developing Python in VS Code: Peter Fitzsimon |                                            |
 
 ## Kudos
 
