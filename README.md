@@ -36,6 +36,9 @@ to schedule an idea for you.
 | 11/12/2019 | Lightning talks!                                                                           |
 | 8/1/2020   | Introduction to asyncio: Caleb Hattingh                                                    |
 | 12/2/2020  | Developing Python in VS Code: Peter Fitzsimon | Detectron2, the Facebook open source computer vision platform (@ClaudeSChretien) |
+| 11/3/2020  |                                             |                                              |
+| 8/4/2020   |                                             | (More) functional Python with the itertools and functools libraries (Bertrand Caron) |
+
 
 ## Kudos
 
